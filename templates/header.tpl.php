@@ -122,7 +122,7 @@ function audioPreview(e,cnc) {
 			<td align='right'>
 			<?php
 			if ( strlen(getenv('REMOTE_USER')) ) {
-				echo "<a href='/acdr/index.php?action=logout'>logout: ". getenv('REMOTE_USER') ."</a>";
+				echo "<a href='/html/asterisk-cdr-viewer/index.php?action=logout'>logout: ". getenv('REMOTE_USER') ."</a>";
 			}
 			?>
 		</td>
