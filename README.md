@@ -1,18 +1,20 @@
-Simple and fast viewer for asterisk CDRs / recordings. ( 1.0.14, Oct 7 2017 )
+Простой и быстрый просмотрщик CDR для Астериск. ( 1.0.16, Jan 16 2022 )
 
-    Asterisk regexp support ( like _XNZ. ) for source / destination / DID numbers. 
+    Русский язык интерфейса
 
-    PHP without any additional dependencies. 
+    Поддержка регулярных выражений Asterisk ( like _XNZ. ) для номеров источника/получателя/DID.
 
-    Easy to install and use. 
+    PHP без каких-либо дополнительных зависимостей.
 
-    CSS based. 
+    Простота установки и использования.
 
-    User / Admin mode 
+    На основе CSS.
 
-    Plugins support for custom reports. 
+    Режим "Пользователь / Администратор"
 
-    ASR report 
+    Поддержка плагинов для пользовательских отчетов.
+
+    Поддержка ASR
 
 ![Html results](img/image6.png "html results")
 
@@ -23,4 +25,4 @@ Simple and fast viewer for asterisk CDRs / recordings. ( 1.0.14, Oct 7 2017 )
 ![Plugins results](img/image7.jpg "Plugins results")
 
 
-( from http://code.google.com/p/asterisk-cdr-viewer )
+Основной код взять из https://github.com/g613/asterisk-cdr-viewer
